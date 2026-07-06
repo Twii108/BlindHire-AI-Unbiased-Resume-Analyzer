@@ -1,4 +1,3 @@
-# Hack2skill
 # 🚀 BlindHire AI – Unbiased Resume Analyzer
 
 ## 🧠 Overview
